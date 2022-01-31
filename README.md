@@ -1,1 +1,1 @@
-This is readme file
+# A template repository with linters installed
